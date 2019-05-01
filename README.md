@@ -8,7 +8,7 @@
 How to Use:
 
 ```
-git clone
+git clone https://github.com/ahmadajis/Vagrant-Create-Jenkins.git
 cd Vagrant-Create-Jenkins
 Vagrant up
 ```
