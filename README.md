@@ -1,7 +1,7 @@
 # Vagrant-Create-Jenkins
 
 ## Require
- Markup : * Bullet list
- vagrant plugin vagrant-hosts
- vagrant plugin vagrant-host-shell
- vagrant plugin vagrant-vbguest
+
+  _vagrant plugin vagrant-hosts
+  _vagrant plugin vagrant-host-shell
+  _vagrant plugin vagrant-vbguest
