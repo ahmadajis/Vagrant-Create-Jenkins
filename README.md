@@ -5,10 +5,10 @@
     -vagrant plugin vagrant-host-shell
     -vagrant plugin vagrant-vbguest
     
-Some basic Git commands are:
+How to Use:
 
 ```
-git status
-git add
-git commit
+git clone
+cd Vagrant-Create-Jenkins
+Vagrant up
 ```
